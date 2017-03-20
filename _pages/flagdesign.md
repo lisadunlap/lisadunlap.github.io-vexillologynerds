@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Flag Design
+permalink: /flagdesign/
 ---
 
 This site is currently under construction. Please come back later.

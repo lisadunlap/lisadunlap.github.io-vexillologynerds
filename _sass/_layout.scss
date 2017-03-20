@@ -14,9 +14,18 @@ h3 {
 	font-family: $heading-font;
 	line-height: 1.5;
 }
+h1#header {
+	color: #000000;
+	font-size: 4em;
+	a,
+	a:visited {
+		text-decoration: none;
+		color: $main;
+	}
+}
 h1 {
 	color: $main;
-	font-size: 4em;
+	font-size: 3em;
 	a,
 	a:visited {
 		text-decoration: none;
@@ -41,19 +50,23 @@ header {
 	padding: 0px 15px;
 	text-align: center;
 	margin: 50px 0 0;
-	height: 50vh;
+	height: 40vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
-	p{
-		color: $main;
-		font-size: 2em;
-	}
+p#subheading{
+	color: #696969;
+	font-size: 2em;
+}
 main {
 	padding: 0 15px;
 	max-width: $content-width;
 	margin: 0 auto;
+}
+p{
+	color: $main;
+	font-size: 1em;
 }
 time {
 	color: #898989;

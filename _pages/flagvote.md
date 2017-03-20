@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Vote on Flags
+permalink: /flagvote/
 ---
 
 This site is currently under construction. Please come back later.
