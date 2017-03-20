@@ -46,6 +46,10 @@ header {
 	justify-content: center;
 	align-items: center;
 }
+	p{
+		color: $main;
+		font-size: 2em;
+	}
 main {
 	padding: 0 15px;
 	max-width: $content-width;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the world of flag design!"
 date:   2017-03-19 22:46:49 -0500
 categories: jekyll update
 ---
