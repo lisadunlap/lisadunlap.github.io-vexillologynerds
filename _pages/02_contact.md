@@ -4,6 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
+This site is currently under construction. Please come back later.
 
-My e-mail is [email@something.com](mailto:email@something.com).
+Seriously.
+
+Close the tab.
+
+Thanks.

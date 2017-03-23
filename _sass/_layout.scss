@@ -102,7 +102,7 @@ aside {
 					text-decoration: none;
 					display: block;
 					padding: 15px;
-					font-family: 'Muli', sans-serif;
+					font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 					line-height: 20px;
 					margin-bottom: -1px;
 					box-shadow: 0;
@@ -110,7 +110,7 @@ aside {
 					&:active {
 						background: $header;
 						text-decoration: none;
-						color: $main;
+						color: #696969;;
 					}
 				}
 			}
