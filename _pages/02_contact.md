@@ -4,10 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-This site is currently under construction. Please come back later.
-
-Seriously.
-
-Close the tab.
-
-Thanks.
+If you are having any problems with the site, please contact me at <a href = "mailto:lisabdunlap@gmail.com">lisabdunlap@gmail.com</a>
