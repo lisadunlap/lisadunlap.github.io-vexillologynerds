@@ -3,8 +3,8 @@
 (function() {
   var questions = [
 
-  	{"question":"What is the capital of the Czech Republic?",
-  	"choices":["Skopje","Budapest","Prague","Bucharest"],
+  	{"question":"https://image.ibb.co/gsr8RF/Flag_of_Alabama_svg.png",
+  	"choices":["Nebraska","Alabama","New Jersey","Texas"],
   	"correctAnswer":2},
 
   	{"question":"When was the Declaration of Independence signed?",
@@ -87,14 +87,12 @@
   // Creates and returns the div that contains the questions and
   // the answer selections
   function createQuestionElement(index) {
-    var qElement = $('<div>', {
-      id: 'question'
-    });
+    var qElement = $('<div>', {id: 'question'});
 
     var header = $('<h2>Question ' + (index + 1) + ':</h2>');
     qElement.append(header);
 
-    var question = $('<p>').append(questions[index].question);
+    var question = $('<p>').append('<img src = "'+questions[index].question+'">');
     qElement.append(question);
 
     var radioButtons = createRadios(index);

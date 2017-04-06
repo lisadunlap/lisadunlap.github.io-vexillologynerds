@@ -1,8 +1,4 @@
----
-layout: page
-title: Flag Quiz
-permalink: /flagquiz1/
----
+
 
 (function() {
   var questions = $.getJSON(quiz.url_questions, callback);
