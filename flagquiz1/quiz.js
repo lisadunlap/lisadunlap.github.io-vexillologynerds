@@ -7,22 +7,81 @@
   	"choices":["Nebraska","Alabama","New Jersey","Texas"],
   	"correctAnswer":2},
 
-  	{"question":"When was the Declaration of Independence signed?",
-  	"choices":["1492","1776","1812","1791"],
+  	{"question":"https://image.ibb.co/edGL6F/alaska.png",
+  	"choices":["Alaska","Maryland","Michigan","Kansas"],
   	"correctAnswer":1},
 
-  	{"question":"How many wives did King Henry VIII have?",
+  	{"question":"https://image.ibb.co/mV2MDv/arizona.png",
   	"choices":["8","2","0","6"],
   	"correctAnswer":3},
 
-  	{"question":"Who was the first man in space?",
+  	{"question":"https://image.ibb.co/msJTtv/arkansas.jpg",
   	"choices":["John Glenn","Yuri Gagarin","Neil Armstrong","Buzz Aldrin"],
   	"correctAnswer":1},
 
-  	{"question":"Which star in the Carl Sagan novel 'Contact' showed signs of extraterrestrial life?",
+  	{"question":"https://image.ibb.co/nssXLa/california.jpg",
   	"choices":["Sun","Betelguese","Vega"],
   	"correctAnswer":2}
 
+    {"question":"https://image.ibb.co/bQ6WDv/colorado.jpg",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/gh8p0a/conneticut.jpg",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/jiv2La/delaware.gif",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/i3xtRF/florida.png",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/dKT6fa/georgia.png",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/e7cGfa/hawaii.gif",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/iuAV6F/idaho.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/n7ee0a/illinois.gif",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/dC4ZYv/indiana.png",
+  	"choices":["Sun","Betelguese","Vega"],
+  	"correctAnswer":2}
+
+    {"question":"https://image.ibb.co/b8vV6F/iowa.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/n7ydtv/kansas.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/frKjYv/kenttucky.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/eqRytv/louisiana.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2
+
+    {"question":"https://image.ibb.co/hSuVQk/maine.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/nmnvrQ/maryland.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
   ];
 
   var questionCounter = 0; //Tracks question number
