@@ -82,6 +82,130 @@
     {"question":"https://image.ibb.co/nmnvrQ/maryland.png",
     "choices":["Sun","Betelguese","Vega"],
     "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/c1DtBQ/massachusetts.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/mMDDvk/michigan.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/j77Ovk/minnesota.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/cF5Aak/Mississippi.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/c4aMgQ/missouri.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/dJfnMQ/montana.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/kevnMQ/nebraska.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/ce37MQ/nevada.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/bWQnMQ/newhampshire.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/gpCOvk/newjersey.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/eBHOvk/newmexico.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/n9zQ85/newyork.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/jrXCo5/northcarolina.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/mWFXo5/northdakota.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/jwFbFk/ohio.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/e2MoT5/oaklahoma.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/hR8fak/oregon.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/fT4Lak/pensilvania.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/mNKxMQ/rhodeisland.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/ctsHMQ/southcarolina.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/gFJfak/southdakota.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/nORcMQ/tennessee.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/frMcMQ/texas.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/dhU8T5/utah.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/jaBBgQ/vermont.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/dQ041Q/virginia.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/fKMBgQ/washington.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/iEpmFk/westvirginia.png",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/mApQ85/wisconson.gif",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/dz5yT5/wyoming.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
+
+    {"question":"https://image.ibb.co/ii7dT5/puertorico.jpg",
+    "choices":["Sun","Betelguese","Vega"],
+    "correctAnswer":2}
   ];
 
   var questionCounter = 0; //Tracks question number
