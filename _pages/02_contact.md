@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
-
-My e-mail is [email@something.com](mailto:email@something.com).
+If you are having any problems with the site, please contact me at <a href = "mailto:lisabdunlap@gmail.com">lisabdunlap@gmail.com</a>
