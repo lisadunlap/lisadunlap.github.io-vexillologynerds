@@ -12,200 +12,204 @@
   	"correctAnswer":1},
 
   	{"question":"https://image.ibb.co/mV2MDv/arizona.png",
-  	"choices":["8","2","0","6"],
+  	"choices":["New Mexico","Arizona","Alabama","North Dakota"],
+  	"correctAnswer":2},
+
+  	{"question":"https://image.ibb.co/b18YVk/arkansas_LI.jpg",
+  	"choices":["Kansas","Mississippi","Arkansas","Alabama"],
   	"correctAnswer":3},
 
-  	{"question":"https://image.ibb.co/msJTtv/arkansas.jpg",
-  	"choices":["John Glenn","Yuri Gagarin","Neil Armstrong","Buzz Aldrin"],
-  	"correctAnswer":1},
-
-  	{"question":"https://image.ibb.co/nssXLa/california.jpg",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	{"question":"https://image.ibb.co/nsSGi5/california_LI.jpg",
+  	"choices":["Montana","Alaska","Califonia", "Oregon"],
+  	"correctAnswer":2},
 
     {"question":"https://image.ibb.co/bQ6WDv/colorado.jpg",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	"choices":["Colorado","Utah","Oregon", "Vermont"],
+  	"correctAnswer":1},
 
     {"question":"https://image.ibb.co/gh8p0a/conneticut.jpg",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	"choices":["Louisiana","Conneticut","Michigan", "Maine"],
+  	"correctAnswer":2},
 
     {"question":"https://image.ibb.co/jiv2La/delaware.gif",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	"choices":["Oaklahoma","New York","Delaware","Maine"],
+  	"correctAnswer":3},
 
-    {"question":"https://image.ibb.co/i3xtRF/florida.png",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+    {"question":"https://image.ibb.co/bTbWGQ/floridarev.png",
+  	"choices":["Alabama","Idaho","Florida","Ohio"],
+  	"correctAnswer":3},
 
     {"question":"https://image.ibb.co/dKT6fa/georgia.png",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	"choices":["Georgia","Mississippi","North Carolina","Texas"],
+  	"correctAnswer":1},
 
     {"question":"https://image.ibb.co/e7cGfa/hawaii.gif",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	"choices":["Mississippi","Puerto Rico","Missouri","Hawaii"],
+  	"correctAnswer":4},
 
-    {"question":"https://image.ibb.co/iuAV6F/idaho.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/hAMLAk/idahorev.png",
+    "choices":["Virginia","Pensilvania","New York", "Idaho"],
+    "correctAnswer":4},
 
-    {"question":"https://image.ibb.co/n7ee0a/illinois.gif",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+    {"question":"https://image.ibb.co/iz3dwQ/illinois_2.gif",
+  	"choices":["Massachusetts","Illinois","Rhode Island","North Dakota"],
+  	"correctAnswer":2},
 
     {"question":"https://image.ibb.co/dC4ZYv/indiana.png",
-  	"choices":["Sun","Betelguese","Vega"],
-  	"correctAnswer":2}
+  	"choices":["Rhode Island","Iowa","New Hampshire","Indiana"],
+  	"correctAnswer":4},
 
-    {"question":"https://image.ibb.co/b8vV6F/iowa.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/ivB935/iowa_LI.jpg",
+    "choices":["Wyoming","Illinois","West Virginia","Iowa"],
+    "correctAnswer":4},
 
-    {"question":"https://image.ibb.co/n7ydtv/kansas.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/iaHhO5/kansasrev.png",
+    "choices":["Wisconson","Kansas","Oregon","Idaho"],
+    "correctAnswer":2},
 
-    {"question":"https://image.ibb.co/frKjYv/kenttucky.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/j7Gj35/kenttucky.gif",
+    "choices":["New Hampshire","Minnesota","Utah","Kentucky"],
+    "correctAnswer":4},
 
     {"question":"https://image.ibb.co/eqRytv/louisiana.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2
+    "choices":["North Dakota","South Dakota","South Carolina","Louisiana"],
+    "correctAnswer":4},
 
-    {"question":"https://image.ibb.co/hSuVQk/maine.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/kmTaAk/mainerev.png",
+    "choices":["Idaho","Maine","Conneticut","New Jersey"],
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/nmnvrQ/maryland.png",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["New Mexico","Maryland","Arizona","Nevada"],
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/c1DtBQ/massachusetts.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Rhode Island","Massachusetts","West Virginia","Illinois"],
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/mMDDvk/michigan.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Michigan","Pensilvania","New York","Oregon"],
+    "correctAnswer":1},
 
     {"question":"https://image.ibb.co/j77Ovk/minnesota.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Oaklahoma","Ohio","Minnesota","Virginia"],
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/cF5Aak/Mississippi.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Georgia","Missouri","Hawaii","Mississippi"],
+    "correctAnswer":4},
 
     {"question":"https://image.ibb.co/c4aMgQ/missouri.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["North Carolina","Tennessee","Missouri","Arkansas"],
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/dJfnMQ/montana.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Montana","Nebraska","South Dakota","Oregon"],
+    "correctAnswer":1},
 
     {"question":"https://image.ibb.co/kevnMQ/nebraska.png",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Nevada","Idaho","New Hampshire","Nebraska"],
+    "correctAnswer":4},
 
     {"question":"https://image.ibb.co/ce37MQ/nevada.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Wisconson","Nevada","Oregon","Vermont"],
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/bWQnMQ/newhampshire.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Indiana","South Dakota","Kansas","New Hampshire"],
+    "correctAnswer":4},
 
     {"question":"https://image.ibb.co/gpCOvk/newjersey.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["New York","Virrginia","New Jersey","Washington"],
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/eBHOvk/newmexico.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Arizona","West Virginia","New Mexico","Illinois"],
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/n9zQ85/newyork.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Pensilvnia","New York","Wisconson","Maine"],
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/jrXCo5/northcarolina.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Texas","North Carolina","North Dakota","Puerto Rico"],
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/mWFXo5/northdakota.jpg",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/jwFbFk/ohio.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/e2MoT5/oaklahoma.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/hR8fak/oregon.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/fT4Lak/pensilvania.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/mNKxMQ/rhodeisland.gif",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/ctsHMQ/southcarolina.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/gFJfak/southdakota.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/nORcMQ/tennessee.gif",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/frMcMQ/texas.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
     {"question":"https://image.ibb.co/dhU8T5/utah.jpg",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
-    {"question":"https://image.ibb.co/jaBBgQ/vermont.png",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/cCDxO5/vermont.png",
+    "choices":["New Hampshire","Oregon", "Washington", "Vermont"],
+    "correctAnswer":4},
 
-    {"question":"https://image.ibb.co/dQ041Q/virginia.png",
+    {"question":"https://image.ibb.co/deDLbQ/virginia.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
-    {"question":"https://image.ibb.co/fKMBgQ/washington.png",
+    {"question":"https://image.ibb.co/c1omGQ/washington.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
-    {"question":"https://image.ibb.co/iEpmFk/westvirginia.png",
+    {"question":"https://image.ibb.co/gFJfak/southdakota.png",
     "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "correctAnswer":2},
 
-    {"question":"https://image.ibb.co/mApQ85/wisconson.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/m0DWi5/wisconson.png",
+    "choices":["Wyoming","Kansas","Oaklahoma", "Wisconson"],
+    "correctAnswer":4},
 
-    {"question":"https://image.ibb.co/dz5yT5/wyoming.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    {"question":"https://image.ibb.co/g14RGQ/wyoming.png",
+    "choices":["Wyoming","Montanta","Wisconson", "North Dakota"],
+    "correctAnswer":1},
 
     {"question":"https://image.ibb.co/ii7dT5/puertorico.jpg",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2}
+    "choices":["Mississippi","Washington DC","Puerto Rico", "Texas"],
+    "correctAnswer":3},
+
+    {"question":"https://image.ibb.co/jxUEJ5/dc.png",
+    "choices":["Alabama","Puerto Rico","Washington DC", "Washington"],
+    "correctAnswer":3},
   ];
 
   var questionCounter = 0; //Tracks question number
@@ -275,7 +279,7 @@
     var header = $('<h2>Question ' + (index + 1) + ':</h2>');
     qElement.append(header);
 
-    var question = $('<p>').append('<img src = "'+questions[index].question+'">');
+    var question = $('<p>').append('<img class="question" src = "'+questions[index].question+'" height="200" width ="300">');
     qElement.append(question);
 
     var radioButtons = createRadios(index);
