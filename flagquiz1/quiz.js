@@ -136,35 +136,35 @@
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/mWFXo5/northdakota.jpg",
-    "choices":["Sun","Betelguese","Vega"],
+    "choices":["Vermont","North Dakota","Idaho","Indiana"],
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/jwFbFk/ohio.png",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2},
+    "choices":["DC","Tennessee","Nepal","Ohio"],
+    "correctAnswer":4},
 
     {"question":"https://image.ibb.co/e2MoT5/oaklahoma.png",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2},
+    "choices":["Wisconson","Nebraska","Minnesota","Oaklahoma"],
+    "correctAnswer":4},
 
     {"question":"https://image.ibb.co/hR8fak/oregon.png",
-    "choices":["Sun","Betelguese","Vega"],
+    "choices":["Nebraska","Oregon","Montana","Nevada"],
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/fT4Lak/pensilvania.png",
-    "choices":["Sun","Betelguese","Vega"],
+    "choices":["Michigan","Pensilvania","New York","South Carolina"],
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/mNKxMQ/rhodeisland.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2},
+    "choices":["Rhode Island","Illinois","Indiana","Minnesota"],
+    "correctAnswer":1},
 
     {"question":"https://image.ibb.co/ctsHMQ/southcarolina.png",
-    "choices":["Sun","Betelguese","Vega"],
+    "choices":["Virginia","West Virginia","South Carolina","Massachusetts"],
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/gFJfak/southdakota.png",
-    "choices":["Sun","Betelguese","Vega"],
+    "choices":["Kentucky","New Hampshire","South Dakota","Nebraska"],
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/nORcMQ/tennessee.gif",
@@ -191,7 +191,7 @@
     "choices":["Sun","Betelguese","Vega"],
     "correctAnswer":2},
 
-    {"question":"https://image.ibb.co/gFJfak/southdakota.png",
+    {"question":"https://image.ibb.co/itapmQ/westvriginia.png",
     "choices":["Sun","Betelguese","Vega"],
     "correctAnswer":2},
 
