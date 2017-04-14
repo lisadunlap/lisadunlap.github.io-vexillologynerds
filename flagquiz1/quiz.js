@@ -161,19 +161,19 @@
 
     {"question":"https://image.ibb.co/ctsHMQ/southcarolina.png",
     "choices":["Virginia","West Virginia","South Carolina","Massachusetts"],
-    "correctAnswer":2},
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/gFJfak/southdakota.png",
     "choices":["Kentucky","New Hampshire","South Dakota","Nebraska"],
-    "correctAnswer":2},
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/nORcMQ/tennessee.gif",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2},
+    "choices":["Texas","Washington DC","Tennessee","Georgia"],
+    "correctAnswer":3},
 
     {"question":"https://image.ibb.co/frMcMQ/texas.png",
-    "choices":["Sun","Betelguese","Vega"],
-    "correctAnswer":2},
+    "choices":["Texas","Puerto Rico","Hawaii","Missouri"],
+    "correctAnswer":1},
 
     {"question":"https://image.ibb.co/dhU8T5/utah.jpg",
     "choices":["Sun","Betelguese","Vega"],
@@ -184,7 +184,7 @@
     "correctAnswer":4},
 
     {"question":"https://image.ibb.co/deDLbQ/virginia.png",
-    "choices":["Sun","Betelguese","Vega"],
+    "choices":["South Carolina","West Virginia","Virginia","South Dakota"],
     "correctAnswer":2},
 
     {"question":"https://image.ibb.co/c1omGQ/washington.png",
