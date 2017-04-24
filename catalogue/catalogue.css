@@ -1,0 +1,20 @@
+body{
+  margin-left: 0;
+}
+h1{
+  font-size: 30px;
+}
+em{
+  font-size: 12px;
+}
+ul.products li {
+    width: 200px; /* adjust the size of the catalog block */
+    display: inline-block; /* this creates the catalog effect */
+    text-align: center; /* align the image to center */
+    background-color: white; /* background color of each */
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    /* border-radius: 10px; rounded borders effect */
+    border: 2px solid #585858; /* border and color */
+}
