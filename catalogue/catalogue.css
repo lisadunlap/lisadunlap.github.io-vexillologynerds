@@ -4,9 +4,6 @@ body{
 h1{
   font-size: 30px;
 }
-em{
-  font-size: 12px;
-}
 ul.products li {
     width: 200px; /* adjust the size of the catalog block */
     display: inline-block; /* this creates the catalog effect */
