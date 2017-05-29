@@ -55,7 +55,7 @@
   	"choices":["Massachusetts","Illinois","Rhode Island","North Dakota"],
   	"correctAnswer":2},
 
-  	{"question":"https://image.ibb.co/dC4ZYv/indiana.png",
+  	{"question":"https://preview.ibb.co/mBRkAk/indiana.png",
   	"choices":["Rhode Island","Iowa","New Hampshire","Indiana"],
   	"correctAnswer":4},
 
