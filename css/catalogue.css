@@ -1,5 +1,5 @@
 ul.products li {
-    width: 370px; /* adjust the size of the catalog block */
+    width: 300px; /* adjust the size of the catalog block */
     display: inline-block; /* this creates the catalog effect */
     text-align: center; /* align the image to center */
     /*background-color:#DCDCDC; background color of each */
