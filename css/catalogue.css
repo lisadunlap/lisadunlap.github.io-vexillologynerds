@@ -6,4 +6,5 @@ ul.products li {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     /* border-radius: 10px; rounded borders effect */
     border: 2px solid #585858; /* border and color */
+    padding-bottom: 1px;
 }
