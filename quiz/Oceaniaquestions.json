@@ -1,0 +1,75 @@
+[
+
+	{"question":"https://image.ibb.co/kmkXAk/australia.png",
+	"choices":["Papua New Guinea","Fiji","Tonga","Australia"],
+	"correctAnswer":4},
+
+	{"question":"https://image.ibb.co/cs9Oi5/cookislands.png",
+	"choices":["Cook Island","New Zealand","Australia","Fiji"],
+	"correctAnswer":1},
+
+	{"question":"https://image.ibb.co/mYF7Ak/easttimor.png",
+	"choices":["Tuvalu","East Timor","Fiji","Tuvalu"],
+	"correctAnswer":2},
+
+	{"question":"https://image.ibb.co/bVrQwQ/fiji.png",
+	"choices":["Marshall Islands","New Zealand","Indonesia","Fiji"],
+	"correctAnswer":4},
+
+	{"question":"https://image.ibb.co/dTzOi5/indonesia.png",
+	"choices":["Indonesia","Marshall Islands","Solomon Islands","Kiribati"],
+	"correctAnswer":1},
+
+	{"question":"https://image.ibb.co/fEnb35/kiribati.png",
+	"choices":["Fiji","Kiribati","Nauru","New Zealand"],
+	"correctAnswer":2},
+
+	{"question":"https://image.ibb.co/dbfUO5/marrshallislands.png",
+	"choices":["Marshall Islands","Papua New Guinea","New Zealand","Indonesia"],
+	"correctAnswer":1},
+
+	{"question":"https://image.ibb.co/kCTuqk/micrconesia.png",
+	"choices":["Vanuatu","Micronesia","Tonga","Kiribati"],
+	"correctAnswer":2},
+
+	{"question":"https://image.ibb.co/hAWEqk/nauru.png",
+	"choices":["Samoa","Palau","Nauru","Australia"],
+	"correctAnswer":3},
+
+	{"question":"https://image.ibb.co/iG6QwQ/newzealand.png",
+	"choices":["Palau","New Zealand","Vanuatu","Palau"],
+	"correctAnswer":2},
+
+	{"question":"https://image.ibb.co/i5c4qk/niue.png",
+	"choices":["Samoa","Niue","Kiribati","Marshall Islands"],
+	"correctAnswer":2},
+
+	{"question":"https://image.ibb.co/nCJAVk/palau.png",
+	"choices":["Solomon Islands","East Timor","Papua New Guinea","Palau"],
+	"correctAnswer":4},
+
+	{"question":"https://image.ibb.co/jM52bQ/papuanewguinea.png",
+	"choices":["East Timor","Papua New Guinea","Marshall Islands","Solomon Islands"],
+	"correctAnswer":2},
+
+	{"question":"https://image.ibb.co/m4hR35/samoa.png",
+	"choices":["Samoa","Cook Islands","New Zealand","East Timor"],
+	"correctAnswer":1},
+
+	{"question":"https://image.ibb.co/iW0Pqk/solomonislands.png",
+	"choices":["Australia","Micronesia","Solomon Islands","Kiribati"],
+	"correctAnswer":3},
+
+	{"question":"https://image.ibb.co/dvWm35/tonga.png",
+	"choices":["Tonga","Micronesia","Nauru","Nauru"],
+	"correctAnswer":1},
+
+	{"question":"https://image.ibb.co/gw9jqk/tuvalu.png",
+	"choices":["Vanuatu","Solomon Islands","Tuvalu","Vanuatu"],
+	"correctAnswer":3},
+
+	{"question":"https://image.ibb.co/eMTAVk/vanuatu.png",
+	"choices":["Palau","Solomon Islands","Cook Islands","Vanuatu"],
+	"correctAnswer":4},
+
+]
